@@ -5,7 +5,7 @@
   "homepage": "https://IamVovaMoroz.github.io/GOIT-9",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IamVovaMoroz/"
+    "build": "parcel build src/*.html --public-url /GOIT-9/"
   },
   "repository": {
     "type": "git",
