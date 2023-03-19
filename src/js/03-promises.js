@@ -20,6 +20,7 @@ function createPromise (position, delay) {
     }, delay);
   });
 }
+// После отправки формы запускаем функцию
 form.addEventListener('submit', formSubmit);
 function formSubmit (event) {
   event.preventDefault();
